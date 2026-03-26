@@ -46,22 +46,6 @@ Navigate to the project folder and open:
 index.html
 
 
-📌 Future Enhancements
-
-🎨 Add external CSS for professional styling
-
-📱 Make fully responsive (Mobile-first approach)
-
-🧾 Improve table structure with proper <thead> and <th>
-
-🧠 Add form validation
-
-🔗 Connect form to backend (Node.js / Express / Firebase)
-
-🌍 Deploy on GitHub Pages / Netlify
-
-📬 Contact
-
 📧 Email: sachin.devlope@gmail.com
 
 ⭐ If you found this project helpful, consider giving it a star!
